@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+I am an undergrad student at [IISER Pune](https://www.iiserpune.ac.in). I am currently working as intern at [AlgoAnalytics](https://www.algoanalytics.com) in the field of Machine learning.
+<br>
+- 🔭 I’m currently working on MS thesis
+- 🌱 I’m currently learning and relearning Machine Learning.
