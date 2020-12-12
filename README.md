@@ -19,4 +19,6 @@ I am an undergrad student at [IISER Pune](https://www.iiserpune.ac.in). I am cur
 <br>
 - 🔭 I’m currently working on MS thesis
 - 🌱 I’m currently learning and relearning Machine Learning.
-- Connect me on <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"></a>
+- Connect me on <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24px" align="top"></a>
+
+### Skillsets
