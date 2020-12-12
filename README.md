@@ -23,7 +23,7 @@ I am an undergrad student at [IISER Pune](https://www.iiserpune.ac.in). I am cur
 
 
 ### Skillsets
-<img src="Assets\c-programming.png" width="30px">
-<img src="Assets\java.png" width="30px">
-<img src="Assets\matlab-logo.png" width="30px">
-<img src="Assets\python.png" width="30px">
+<img src="Assets\c-programming.png" width="30px"> <img src="Assets\java.png" width="30px"> <img src="Assets\matlab-logo.png" width="30px"><img src="Assets\python.png" width="30px">
+
+
+
