@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Mrityunjay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **samantamrityunjay/samantamrityunjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ I am an undergrad student at [IISER Pune](https://www.iiserpune.ac.in). I am cur
 <br>
 - 🔭 I’m currently working on MS thesis
 - 🌱 I’m currently learning and relearning Machine Learning.
+- Connect me on <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"></a>
