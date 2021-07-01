@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am an undergrad student at [IISER Pune](https://www.iiserpune.ac.in). I am currently working as a Machine learning intern at [AlgoAnalytics](https://www.algoanalytics.com) in the field of healthcare domain.
+Currently I am working as an Associate Data Scientist at [AlgoAnalytics](https://algoanalytics.com).
+I graduated from [IISER Pune](https://www.iiserpune.ac.in) with Integrated BS-MS majoring in Physical Sciences. 
 <br>
-- I’m currently working on my final year thesis in the topic 'Assignment of ICD10 codes to clinical notes'
 - I’m currently learning and relearning Machine Learning.
 - Connect me on <a href="https://www.linkedin.com/in/mrityunjay-samanta"><img src="Assets\linkedin.svg" width="24px" align="top"></a>
 
