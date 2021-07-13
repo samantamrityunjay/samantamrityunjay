@@ -19,11 +19,11 @@ Currently I am working as an Associate Data Scientist at [AlgoAnalytics](https:/
 I graduated from [IISER Pune](https://www.iiserpune.ac.in) with Integrated BS-MS majoring in Physical Sciences. 
 <br>
 - I’m currently learning and relearning Machine Learning.
-- Connect me on <a href="https://www.linkedin.com/in/mrityunjay-samanta"><img src="Assets\linkedin.svg" width="24px" align="top"></a>
+- Connect me on <a href="https://www.linkedin.com/in/mrityunjay-samanta">` LinkedIn`</a>
 
 
 ### Skillsets
-<img src="Assets\c-programming.png" width="30px"> <img src="Assets\java.png" width="30px"> <img src="Assets\matlab-logo.png" width="30px"><img src="Assets\python.png" width="30px">
-
+**Languages** : `C language` `Python` <br>
+**ML Libraries** : `SkLearn` `PyTorch` `NLTK` `Spacy`
 
 
